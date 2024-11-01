@@ -26,6 +26,3 @@
 
 ![img.6](gambar/6.png)
 
-### Laporan
-
-[Hasil Laporan](https://github.com/FaizahviaFadhillah/Uts_PemrogramanVisual/FaizahViaFadhillah_LaporanUTS.pdf)
